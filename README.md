@@ -92,14 +92,14 @@ I'm **Udita Rath**, a Final Year B.Tech CSE student with a passion for building 
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=udita2003&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="udita2003" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=udita2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Udita's GitHub Stats" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=udita2003&show_icons=true&locale=en&theme=tokyonight" alt="udita2003" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udita2003&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=udita2003&theme=tokyonight" alt="udita2003" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=udita2003&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
