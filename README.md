@@ -100,7 +100,3 @@ I'm **Udita Rath**, a Final Year B.Tech CSE student with a passion for building 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=udita2003&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=udita2003&theme=tokyo-night&hide_border=true" alt="Udita's Activity Graph"/>
-</p>
