@@ -21,10 +21,9 @@
 I'm **Udita Rath**, a Final Year B.Tech CSE student with a passion for building things that scale. I love solving real-world problems through code and am deeply keen on **Cloud & DevOps automation** — from containerizing apps to setting up CI/CD pipelines. With a strong foundation in **DSA & problem solving**, I believe clean logic is the backbone of any great system.
 
 - 🎯 Currently targeting a career as a **DevOps Engineer**
-- 🌱 Currently learning **Cloud Platforms (AWS/GCP/Azure)** & **DevOps tooling**
+- 🌱 Currently learning **Cloud Platforms AWS** & **DevOps tooling**
 - 💬 Ask me about **Java, Frontend Development, API Design**
-- 📫 Reach me at **uditarath21@gmail.com**
-- ⚡ Fun fact: I debug best with music on 🎵
+- 📫 Reach me at **uditarath1970@gmail.com**
 
 ---
 
